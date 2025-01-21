@@ -23,7 +23,7 @@ description varchar(250)
 );
 ```
 
-## Business Problems and Solutions
+## 15 Business Problems and Solutions
 select * from netflix;
 -- it will return the total number of rows in the data.
 select 
@@ -35,8 +35,6 @@ select
 distinct type
 from netflix 
 
-
--- 15 Business Problems
 
 ## 1.Count number of movies and TV shows 
 ```sql
