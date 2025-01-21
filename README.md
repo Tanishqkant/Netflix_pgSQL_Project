@@ -167,7 +167,7 @@ SELECT * FROM netflix
 WHERE listed_in LIKE '%Documentaries'
 ```
 
-##12. Find all content without a director
+## 12. Find all content without a director
 ```sql
 select * from netflix 
 where director is null
