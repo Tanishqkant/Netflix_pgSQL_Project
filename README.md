@@ -194,8 +194,7 @@ WHERE
 	limit 10
 ```
 
-## 15. Categorize the content based on the presence of the keyword 'Kill' and 'Voilence' in the description field.Label content containing these keywords as 'Bad' and all other 
- content as 'Good'. Count how many items fall Into each category.
+## 15. Categorize the content based on the presence of the keyword 'Kill' and 'Voilence' in the description field.Label content containing these keywords as 'Bad' and all other content as 'Good'. Count how many items fall Into each category.
  ```sql
 with new_table
 as 
